@@ -3,11 +3,10 @@ layout: page
 title: About me
 subtitle: 
 ---
+I'm a senior at CUNY Brooklyn College as a computer science major with passions in security and systems. I want to work in an area that intersects my love for solving technically challenging problems and helping others.
 
-My name is thrwat Najjar. I have the following qualities:
+Some personal hobbies that I really enjoy are reading books, trying new foods, and exploring new places.
 
-- I rock a great hijab.
-- I'm extremely loyal to my friends.
 
 ### My Story
 

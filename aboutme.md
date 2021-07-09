@@ -8,6 +8,23 @@ I'm a senior at CUNY Brooklyn College as a computer science major with passions 
 Some personal hobbies that I really enjoy are reading books, trying new foods, and exploring new places.
 
 
-### My Story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+           
+               
 
 

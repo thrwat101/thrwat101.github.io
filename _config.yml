@@ -106,6 +106,7 @@ post_search: true
 
 navbar-col: "	#FFFFFF"
 navbar-text-col: "#404040"
+navbar-text-font: Calibri
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
